@@ -49,7 +49,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '5jC3vDwHo9IO4NluoB1FDnK4Q40d-ojUJVdKkpYNdrI',
+  CALLBACK_TEMPLATE_ID: 'eWuJh-gfHH87VsPZ5vhKSiD4NeatWbDtlGqWEvQDQNU',
 
   CALLBACK_USERS: [
     {
